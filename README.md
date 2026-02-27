@@ -190,12 +190,13 @@ and CITGM team members listed below.
 
 <!-- ncu-team-sync.team(nodejs/backporters) -->
 
-* [@aduh95](https://github.com/aduh95) - Antoine du Hamel
-* [@BethGriggs](https://github.com/BethGriggs) - Beth Griggs
-* [@codebytere](https://github.com/codebytere) - Shelley Vohr
-* [@guybedford](https://github.com/guybedford) - Guy Bedford
-* [@RafaelGSS](https://github.com/RafaelGSS) - Rafael Gonzaga
-* [@richardlau](https://github.com/richardlau) - Richard Lau
+* [@Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
+  - Antoine du Hamel
+  - Beth Griggs
+  - Shelley Vohr
+  - Guy Bedford
+  - Rafael Gonzaga
+  - Richard Lau
 
 <!-- ncu-team-sync end -->
 
@@ -203,53 +204,56 @@ and CITGM team members listed below.
 
 <!-- ncu-team-sync.team(nodejs/releasers) -->
 
-* [@aduh95](https://github.com/aduh95) - Antoine du Hamel
-* [@juanarbol](https://github.com/juanarbol) - Juan José
-* [@marco-ippolito](https://github.com/marco-ippolito) - Marco Ippolito
-* [@RafaelGSS](https://github.com/RafaelGSS) - Rafael Gonzaga
-* [@richardlau](https://github.com/richardlau) - Richard Lau
-* [@ruyadorno](https://github.com/ruyadorno) - Ruy Adorno
-* [@targos](https://github.com/targos) - Michaël Zasso
-* [@UlisesGascon](https://github.com/UlisesGascon) - Ulises Gascón
+* [@Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
+   - Antoine du Hamel
+   - Juan José
+   - Marco Ippolito
+   - Rafael Gonzaga
+   - Richard Lau
+   - Ruy Adorno
+   - Michaël Zasso
+   - Ulises Gascón
 
 <!-- ncu-team-sync end -->
 
 ## CITGM team
 
-* https://github.com/nodejs/citgm#citgm-team
+* https://github.com/Unity-Billal-mesloub/citgm#citgm-team
 
 ## Emeritus
 
 ### LTS team
-- [@addaleax](https://github.com/addaleax) - Anna Henningsen
-- [@BethGriggs](https://github.com/BethGriggs) - Bethany Griggs
-- [@bnoordhuis](https://github.com/bnoordhuis) - Ben Noordhuis
-- [@danielleadams](https://github.com/danielleadams) - Danielle Adams
-- [@ErisDS](https://github.com/ErisDS) - Hannah Wolfe
-- [@Fishrock123](https://github.com/Fishrock123) - Jeremiah Senkpiel
-- [@geek](https://github.com/geek) - Wyatt Preul
-- [@gibfahn](https://github.com/gibfahn) - Gibson Fahnestock
-- [@jasnell](https://github.com/jasnell) - James M Snell
-- [@mhdawson](https://github.com/mhdawson) - Michael Dawson
-- [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
-- [@othiym23](https://github.com/othiym23) - Forrest L Norvell
-- [@rvagg](https://github.com/rvagg) - Rod Vagg
-- [@sam-github](https://github.com/sam-github) - Sam Roberts
-- [@shigeki](https://github.com/shigeki) - Shigeki Ohtsu
-- [@srl295](https://github.com/srl295) - Steven R. Loomis
-- [@trevnorris](https://github.com/trevnorris) - Trevor Norris
-- [@yunong](https://github.com/yunong) - Yunong Xiao
+- [@Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
+ - Anna Henningsen
+ - Bethany Griggs
+ - Ben Noordhuis
+ - Danielle Adams
+ - Hannah Wolfe
+ - Jeremiah Senkpiel
+ - Wyatt Preul
+ - Gibson Fahnestock
+ - James M Snell
+ - Michael Dawson
+ - Myles Borins
+ - Forrest L Norvell
+ - Rod Vagg
+ - Sam Roberts
+ - Shigeki Ohtsu
+ - Steven R. Loomis
+ - Trevor Norris
+ - Yunong Xiao
 
 ### Releasers team
-- [@bengl](https://github.com/bengl) - Bryan English
-- [@BethGriggs](https://github.com/BethGriggs) - Bethany Griggs
-- [@BridgeAR](https://github.com/BridgeAR) - Ruben Bridgewater
-- [@cjihrig](https://github.com/cjihrig) - Colin Ihrig
-- [@codebytere](https://github.com/codebytere) - Shelley Vohr
-- [@danielleadams](https://github.com/danielleadams) - Danielle Adams
-- [@evanlucas](https://github.com/evanlucas) - Evan Lucas
-- [@Fishrock123](https://github.com/Fishrock123) - Jeremiah Senkpiel
-- [@gibfahn](https://github.com/gibfahn) - Gibson Fahnestock
-- [@jasnell](https://github.com/jasnell) - James M Snell
+- [@Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
+ - Bryan English
+ - Bethany Griggs
+ - Ruben Bridgewater
+ - Colin Ihrig
+ - Shelley Vohr
+ - Danielle Adams
+ - Evan Lucas
+ - Jeremiah Senkpiel
+ - Gibson Fahnestock
+ - James M Snell
 - [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
 - [@rvagg](https://github.com/rvagg) - Rod Vagg

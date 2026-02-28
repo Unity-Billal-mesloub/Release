@@ -255,5 +255,5 @@ and CITGM team members listed below.
  - Jeremiah Senkpiel
  - Gibson Fahnestock
  - James M Snell
-- [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
-- [@rvagg](https://github.com/rvagg) - Rod Vagg
+ - Myles Borins
+ - Rod Vagg

@@ -4,9 +4,10 @@
 
 | Release  | Status              | Codename     |Initial Release | Active LTS Start | Maintenance Start | End-of-life               |
 | :--:     | :---:               | :---:        | :---:          | :---:            | :---:             | :---:                     |
+| [20.x][] | **Maintenance LTS** | [Iron][]     | 2023-04-18     | 2023-10-24       | 2024-10-22        | 2026-04-30                |
 | [22.x][] | **Maintenance LTS** | [Jod][]      | 2024-04-24     | 2024-10-29       | 2025-10-21        | 2027-04-30                |
 | [24.x][] | **Active LTS**      | [Krypton][]  | 2025-05-06     | 2025-10-28       | 2026-10-20        | 2028-04-30                |
-| [26.x][] | **Current**         |              | 2026-05-05     | 2026-10-28       | 2027-10-20        | 2029-04-30                |
+| [25.x][] | **Current**         |              | 2025-10-15     | -                | 2026-04-01        | 2026-06-01                |
 
 Dates are subject to change.
 
@@ -59,10 +60,8 @@ that are not End-of-Life.
 | [17.x][] | **End-of-Life** |           |    2021-10-19   |         -        |                       |  2022-06-01 |
 | [18.x][] | **End-of-Life** |[Hydrogen][]|   2022-04-19   |    2022-10-25    |       2023-10-18      |  2025-04-30 |
 | [19.x][] | **End-of-Life** |           |    2022-10-18   |         -        |                       |  2023-06-01 |
-| [20.x][] | **End-of-Life** | [Iron][]  |    2023-04-18   |    2023-10-24    |       2024-10-22      | 2026-04-30  |
 | [21.x][] | **End-of-Life** |           |    2023-10-17   |         -        |       2024-04-01      |  2024-06-01 |
 | [23.x][] | **End-of-Life** |           |    2024-10-15   |         -        |       2025-04-01      |  2025-06-01 |
-| [25.x][] | **End-of-Life** |           |    2025-10-15   |         -        |       2026-04-01      |  2026-06-01 |
 
 ## Mandate
 
@@ -183,7 +182,6 @@ the discretion of the Release working group.
 [23.x]: https://nodejs.org/download/release/latest-v23.x/
 [24.x]: https://nodejs.org/download/release/latest-v24.x/
 [25.x]: https://nodejs.org/download/release/latest-v25.x/
-[26.x]: https://nodejs.org/download/release/latest-v26.x/
 
 The working group members are the union of the Releasers, Backporters
 and CITGM team members listed below.
@@ -192,13 +190,13 @@ and CITGM team members listed below.
 
 <!-- ncu-team-sync.team(nodejs/backporters) -->
 
-* [@aduh95](https://github.com/aduh95) - Antoine du Hamel
-* [@BethGriggs](https://github.com/BethGriggs) - Beth Griggs
-* [@codebytere](https://github.com/codebytere) - Shelley Vohr
-* [@guybedford](https://github.com/guybedford) - Guy Bedford
-* [@RafaelGSS](https://github.com/RafaelGSS) - Rafael Gonzaga
-* [@richardlau](https://github.com/richardlau) - Richard Lau
-* [@sxa](https://github.com/sxa) - Stewart X Addison
+* [@Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
+  - Antoine du Hamel
+  - Beth Griggs
+  - Shelley Vohr
+  - Guy Bedford
+  - Rafael Gonzaga
+  - Richard Lau
 
 <!-- ncu-team-sync end -->
 
@@ -206,54 +204,56 @@ and CITGM team members listed below.
 
 <!-- ncu-team-sync.team(nodejs/releasers) -->
 
-* [@aduh95](https://github.com/aduh95) - Antoine du Hamel
-* [@juanarbol](https://github.com/juanarbol) - Juan José
-* [@marco-ippolito](https://github.com/marco-ippolito) - Marco Ippolito
-* [@RafaelGSS](https://github.com/RafaelGSS) - Rafael Gonzaga
-* [@richardlau](https://github.com/richardlau) - Richard Lau
-* [@ruyadorno](https://github.com/ruyadorno) - Ruy Adorno
-* [@sxa](https://github.com/sxa) - Stewart X Addison
-* [@targos](https://github.com/targos) - Michaël Zasso
-* [@UlisesGascon](https://github.com/UlisesGascon) - Ulises Gascón
+* [@Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
+   - Antoine du Hamel
+   - Juan José
+   - Marco Ippolito
+   - Rafael Gonzaga
+   - Richard Lau
+   - Ruy Adorno
+   - Michaël Zasso
+   - Ulises Gascón
 
 <!-- ncu-team-sync end -->
 
 ## CITGM team
 
-* https://github.com/nodejs/citgm#citgm-team
+* https://github.com/Unity-Billal-mesloub/citgm#citgm-team
 
 ## Emeritus
 
 ### LTS team
-- [@addaleax](https://github.com/addaleax) - Anna Henningsen
-- [@BethGriggs](https://github.com/BethGriggs) - Bethany Griggs
-- [@bnoordhuis](https://github.com/bnoordhuis) - Ben Noordhuis
-- [@danielleadams](https://github.com/danielleadams) - Danielle Adams
-- [@ErisDS](https://github.com/ErisDS) - Hannah Wolfe
-- [@Fishrock123](https://github.com/Fishrock123) - Jeremiah Senkpiel
-- [@geek](https://github.com/geek) - Wyatt Preul
-- [@gibfahn](https://github.com/gibfahn) - Gibson Fahnestock
-- [@jasnell](https://github.com/jasnell) - James M Snell
-- [@mhdawson](https://github.com/mhdawson) - Michael Dawson
-- [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
-- [@othiym23](https://github.com/othiym23) - Forrest L Norvell
-- [@rvagg](https://github.com/rvagg) - Rod Vagg
-- [@sam-github](https://github.com/sam-github) - Sam Roberts
-- [@shigeki](https://github.com/shigeki) - Shigeki Ohtsu
-- [@srl295](https://github.com/srl295) - Steven R. Loomis
-- [@trevnorris](https://github.com/trevnorris) - Trevor Norris
-- [@yunong](https://github.com/yunong) - Yunong Xiao
+- [@Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
+ - Anna Henningsen
+ - Bethany Griggs
+ - Ben Noordhuis
+ - Danielle Adams
+ - Hannah Wolfe
+ - Jeremiah Senkpiel
+ - Wyatt Preul
+ - Gibson Fahnestock
+ - James M Snell
+ - Michael Dawson
+ - Myles Borins
+ - Forrest L Norvell
+ - Rod Vagg
+ - Sam Roberts
+ - Shigeki Ohtsu
+ - Steven R. Loomis
+ - Trevor Norris
+ - Yunong Xiao
 
 ### Releasers team
-- [@bengl](https://github.com/bengl) - Bryan English
-- [@BethGriggs](https://github.com/BethGriggs) - Bethany Griggs
-- [@BridgeAR](https://github.com/BridgeAR) - Ruben Bridgewater
-- [@cjihrig](https://github.com/cjihrig) - Colin Ihrig
-- [@codebytere](https://github.com/codebytere) - Shelley Vohr
-- [@danielleadams](https://github.com/danielleadams) - Danielle Adams
-- [@evanlucas](https://github.com/evanlucas) - Evan Lucas
-- [@Fishrock123](https://github.com/Fishrock123) - Jeremiah Senkpiel
-- [@gibfahn](https://github.com/gibfahn) - Gibson Fahnestock
-- [@jasnell](https://github.com/jasnell) - James M Snell
-- [@MylesBorins](https://github.com/MylesBorins) - Myles Borins
-- [@rvagg](https://github.com/rvagg) - Rod Vagg
+- [@Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
+ - Bryan English
+ - Bethany Griggs
+ - Ruben Bridgewater
+ - Colin Ihrig
+ - Shelley Vohr
+ - Danielle Adams
+ - Evan Lucas
+ - Jeremiah Senkpiel
+ - Gibson Fahnestock
+ - James M Snell
+ - Myles Borins
+ - Rod Vagg

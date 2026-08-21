@@ -191,12 +191,7 @@ and CITGM team members listed below.
 <!-- ncu-team-sync.team(nodejs/backporters) -->
 
 * [@Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
-  - Antoine du Hamel
-  - Beth Griggs
-  - Shelley Vohr
-  - Guy Bedford
-  - Rafael Gonzaga
-  - Richard Lau
+  - Billal mesloub
 
 <!-- ncu-team-sync end -->
 
@@ -205,15 +200,7 @@ and CITGM team members listed below.
 <!-- ncu-team-sync.team(nodejs/releasers) -->
 
 * [@Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
-   - Antoine du Hamel
-   - Juan José
-   - Marco Ippolito
-   - Rafael Gonzaga
-   - Richard Lau
-   - Ruy Adorno
-   - Michaël Zasso
-   - Ulises Gascón
-
+   - Billal mesloub
 <!-- ncu-team-sync end -->
 
 ## CITGM team
@@ -224,36 +211,9 @@ and CITGM team members listed below.
 
 ### LTS team
 - [@Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
- - Anna Henningsen
- - Bethany Griggs
- - Ben Noordhuis
- - Danielle Adams
- - Hannah Wolfe
- - Jeremiah Senkpiel
- - Wyatt Preul
- - Gibson Fahnestock
- - James M Snell
- - Michael Dawson
- - Myles Borins
- - Forrest L Norvell
- - Rod Vagg
- - Sam Roberts
- - Shigeki Ohtsu
- - Steven R. Loomis
- - Trevor Norris
- - Yunong Xiao
+ - Billal mesloub
 
 ### Releasers team
 - [@Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
- - Bryan English
- - Bethany Griggs
- - Ruben Bridgewater
- - Colin Ihrig
- - Shelley Vohr
- - Danielle Adams
- - Evan Lucas
- - Jeremiah Senkpiel
- - Gibson Fahnestock
- - James M Snell
- - Myles Borins
- - Rod Vagg
+ - Billal mesloub
+ 
